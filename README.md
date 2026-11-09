@@ -4,7 +4,9 @@ An interactive Streamlit application showing monthly county-level exposure to CO
 
 ## Live application
 
-The public Streamlit application link will be added after deployment.
+The public Streamlit application as deployed in the streamlit public community cloud can be view at link below:
+
+https://fema-county-exposure-map.streamlit.app/
 
 ## Exposure categories
 
